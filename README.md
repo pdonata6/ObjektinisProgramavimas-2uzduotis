@@ -65,7 +65,7 @@ RAM: 8GB
 # ObjektinisProgramavimas-2uzduotis
 
 
-# _**v1.0**_
+# _**v1.**_
 
 struct Student buvo pakeista į class Student. Spartos analizes lentelė:
 
