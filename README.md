@@ -55,13 +55,17 @@ RAM: 8GB
 
 ![v1 00](https://user-images.githubusercontent.com/90028851/144061213-0113458e-7e5f-4e99-9305-ac18fd06c5b5.png)
 
+**Naudojant Flag'us:
+**O1**
+![01](https://user-images.githubusercontent.com/90028851/144564367-645a7df1-d483-48ea-8e78-b30f4b8d0edd.png)
+
+**O2**
+![02](https://user-images.githubusercontent.com/90028851/144564463-20b996b4-4f53-4cb3-ab01-841e07ba2f27.png)
+
+**O3*
+![03](https://user-images.githubusercontent.com/90028851/144564525-30e985ac-95c2-4b6d-bac1-ebf25d58da42.png)
+
 #
-
-
-
-
-
-
 # ObjektinisProgramavimas-2uzduotis
 
 
