@@ -55,7 +55,8 @@ RAM: 8GB
 
 ![v1 00](https://user-images.githubusercontent.com/90028851/144061213-0113458e-7e5f-4e99-9305-ac18fd06c5b5.png)
 
-**Naudojant Flag'us:
+**Naudojant Flag'us:**
+
 **O1**
 ![01](https://user-images.githubusercontent.com/90028851/144564367-645a7df1-d483-48ea-8e78-b30f4b8d0edd.png)
 
