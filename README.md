@@ -83,5 +83,9 @@ struct studentu_duom buvo pakeista į class studentu_duom. Spartos analizės len
 
 Versija papildytaa su reikiamais operatoriais "Rule of three" (destructor, copy constructor, copy assignment operator)
 
+# _**v1.5**_
+
+**class Studentas** buvo išskaidyta į dvi klases - **Class Person** (Base klasė) ir **Class Studentas** (Derived klasė)
+
 
 
