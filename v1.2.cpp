@@ -14,27 +14,7 @@
 #include <numeric>
 #include <stdexcept>
 
-
-using std::cout;
-using std::cin;
-using std::endl;
-using std::string;
-using std::vector;
-using std::ifstream;
-using std::stoi;
-using std::getline;
-using std::istringstream;
-using std::swap;
-using std::istream;
-using std::streamsize;
-using std::setprecision;
-using std::max;
-using std::list;
-using std::setw;
-using std::left;
-using std::ofstream;
-using std::accumulate;
-
+using namespace std;
 
 class studentu_duom
 {
@@ -125,16 +105,14 @@ int main() {
     std::uniform_int_distribution<int> dist(1, 10);
     int pasirinkimas;
 
-    cout
-            << "Kokiu budu generuosite failus?\n""\nNorint sugeneruoti jau esamus 5 failus spauskite'1'";
+    cout<< "Spauskite '1' norint sugeneruoti failus";
     cin >> pasirinkimas;
     while (pasirinkimas != 1) {
 
         if (pasirinkimas == 1)
             break;
         cout << "Netinkama reiksme. Pakartokite.\n";
-        cout
-                << "Kokiu budu generuosite failus?\n""\nNorint sugeneruoti jau esamus 5 failus spauskite'1'";
+        cout<< "Spauskite '1' norint sugeneruoti failus";
         cin >> pasirinkimas;
         cin.clear();
         cin.ignore();
