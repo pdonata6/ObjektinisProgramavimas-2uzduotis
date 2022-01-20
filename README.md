@@ -62,7 +62,7 @@ Versija papildytaa su reikiamais operatoriais "Rule of three" (destructor, copy 
 
 # _**v1.5**_
 
-**class Studentas** buvo išskaidyta į dvi klases - **Class Person** (Base klasė) ir **Class Studentas** (Derived klasė)
+**class Studentas** buvo išskaidyta į dvi klases - **Class Zmogus** (Base klasė) ir **Class Studentas** (Derived klasė)
 
 
 
